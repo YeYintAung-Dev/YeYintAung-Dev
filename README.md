@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5622AQEzm0_66cUlNA/feedshare-shrink_800/feedshare-shrink_800/0/1704307947015?e=2147483647&v=beta&t=1u8NFVP3dgveB5qBst1X_27XutIiNrG81-5KOwj7yL4)](https://github.com/YeYintAung-Dev)
+[![MasterHead](https://user-images.githubusercontent.com/53557466/123773133-b9f98e80-d8cc-11eb-9392-f66a11afb8d4.gif)](https://github.com/YeYintAung-Dev)
 <h1 align="center">Hi 👋, I'm Ye Yint Aung</h1>
 <h3 align="center">I am backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
