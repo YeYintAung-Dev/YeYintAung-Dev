@@ -1,4 +1,4 @@
-[![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/4086801/cover_image/regular_1708x683/cover-0219-The10MistakesC-Waldek_img-9dbcb8505c8e2e676ed814453e85d4e5.png)](https://github.com/YeYintAung-Dev)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQGRHI-Lb_sWeQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684936949564?e=1738195200&v=beta&t=NK_TjGYOT_cHu5rmCN3aQGHcrRT12xb8ky5eO0eST5c)](https://github.com/YeYintAung-Dev)
 <h1 align="center">Hi 👋, I'm Ye Yint Aung</h1>
 <h3 align="center">I am backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
